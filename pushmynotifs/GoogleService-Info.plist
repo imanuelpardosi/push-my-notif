@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>134017122519-8g8hp2ce6svbsffqi0ic7q92s5dgt52k.apps.googleusercontent.com</string>
+	<string>134017122519-hpe0o50fk0vm770ks9l57fn27j7ib59r.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.134017122519-8g8hp2ce6svbsffqi0ic7q92s5dgt52k</string>
+	<string>com.googleusercontent.apps.134017122519-hpe0o50fk0vm770ks9l57fn27j7ib59r</string>
 	<key>API_KEY</key>
 	<string>AIzaSyDX2kur2rDFozybIh62q9yRBFEsHQh__h4</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,23 +17,23 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ipardosi.mypushnotifs</string>
+	<string>com.ipardosi.pushmynotifs</string>
 	<key>PROJECT_ID</key>
 	<string>mypushnotifs-f27a0</string>
 	<key>STORAGE_BUCKET</key>
 	<string>mypushnotifs-f27a0.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:134017122519:ios:df75c13037d7ad4d</string>
+	<string>1:134017122519:ios:0c82f82fa4e9035a</string>
 	<key>DATABASE_URL</key>
 	<string>https://mypushnotifs-f27a0.firebaseio.com</string>
 </dict>
